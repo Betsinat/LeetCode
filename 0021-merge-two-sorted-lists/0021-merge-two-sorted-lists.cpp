@@ -21,7 +21,7 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode dummy(0); // Dummy node to start the merged list
+        ListNode dummy(0); 
         ListNode* current = &dummy;
         
         while (list1 && list2) {
@@ -35,9 +35,9 @@ public:
             current = current->next;
         }
         
-        // Attach the remaining elements
+       
         current->next = list1 ? list1 : list2;
         
-        return dummy.next; // Skip the dummy node
+        return dummy.next; 
     }
 };
