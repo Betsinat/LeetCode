@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Betsinat/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Betsinat/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Betsinat/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Betsinat/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Betsinat/LeetCode/tree/master/0283-move-zeroes) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Betsinat/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Betsinat/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Betsinat/LeetCode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
