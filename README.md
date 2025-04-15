@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Betsinat/LeetCode/tree/master/0283-move-zeroes) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Betsinat/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Betsinat/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Betsinat/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,4 +54,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Betsinat/LeetCode/tree/master/0066-plus-one) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Betsinat/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 <!---LeetCode Topics End-->
