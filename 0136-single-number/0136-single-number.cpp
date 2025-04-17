@@ -1,17 +1,11 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        sort(nums.begin(), nums.end()); 
-        int n = nums.size();
-        int left = 0;
-        while (left < n - 1) { 
-            if (nums[left] == nums[left + 1]) {
-                left += 2;
-            } else {
-                return nums[left]; 
-            }
+        int out = 0;
+        for(int i =0 ; i < nums.size(); i++){
+            out = out ^ nums[i];
         }
-        return nums[n - 1]; 
+        return out;
     }
 };
 
