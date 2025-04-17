@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Betsinat/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Betsinat/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Betsinat/LeetCode/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/Betsinat/LeetCode/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Betsinat/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Betsinat/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Betsinat/LeetCode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Betsinat/LeetCode/tree/master/0455-assign-cookies) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Betsinat/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Betsinat/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Betsinat/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -76,4 +78,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Betsinat/LeetCode/tree/master/0217-contains-duplicate) |
+| [0455-assign-cookies](https://github.com/Betsinat/LeetCode/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Betsinat/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
