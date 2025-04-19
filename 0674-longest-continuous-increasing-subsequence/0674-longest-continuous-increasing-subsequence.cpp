@@ -6,10 +6,11 @@ public:
         int currentCount = 1;
         int maxCount = 1;
         while(right < nums.size()){
-            if(nums[right] > nums[right - 1]){
+            if(nums[left] < nums[right]){
                 currentCount++;
                 maxCount = max(currentCount , maxCount);
                 right++;
+                left++;
             }
             else{
                 currentCount = 1;
