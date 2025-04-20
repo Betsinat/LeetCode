@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1542-consecutive-characters](https://github.com/Betsinat/LeetCode/tree/master/1542-consecutive-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Betsinat/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Betsinat/LeetCode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Betsinat/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Array
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Betsinat/LeetCode/tree/master/0258-add-digits) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Betsinat/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Number Theory
 |  |
 | ------- |
