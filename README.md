@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Betsinat/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Betsinat/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Betsinat/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [1293-three-consecutive-odds](https://github.com/Betsinat/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Betsinat/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Betsinat/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Betsinat/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
