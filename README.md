@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Betsinat/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Betsinat/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Betsinat/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Betsinat/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Betsinat/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Betsinat/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Betsinat/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Betsinat/LeetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Betsinat/LeetCode/tree/master/0792-binary-search) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Betsinat/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Betsinat/LeetCode/tree/master/0169-majority-element) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Betsinat/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
 |  |
 | ------- |
