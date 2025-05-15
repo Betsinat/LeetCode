@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Betsinat/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Betsinat/LeetCode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Betsinat/LeetCode/tree/master/0455-assign-cookies) |
+| [0961-long-pressed-name](https://github.com/Betsinat/LeetCode/tree/master/0961-long-pressed-name) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Betsinat/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Betsinat/LeetCode/tree/master/0344-reverse-string) |
 | [0459-repeated-substring-pattern](https://github.com/Betsinat/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0961-long-pressed-name](https://github.com/Betsinat/LeetCode/tree/master/0961-long-pressed-name) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Betsinat/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1542-consecutive-characters](https://github.com/Betsinat/LeetCode/tree/master/1542-consecutive-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Betsinat/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
