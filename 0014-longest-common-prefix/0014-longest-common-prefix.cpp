@@ -4,7 +4,7 @@ public:
         if (strs.size() == 0) return "";
         if (strs.size() == 1) return strs[0];
 
-        string prefix = strs[0]; 
+        string prefix = strs[0];
         
         for (int i = 1; i < strs.size(); i++) {
             int j = 0;
