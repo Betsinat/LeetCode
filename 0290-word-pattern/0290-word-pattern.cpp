@@ -10,7 +10,6 @@ public:
     bool wordPattern(string pattern, string s) {
         unordered_map<char, string> charToWord;
         unordered_map<string, char> wordToChar;
-        
         vector<string> words;
         stringstream ss(s);
         string word;
