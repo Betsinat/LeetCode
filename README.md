@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Betsinat/LeetCode/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/Betsinat/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Betsinat/LeetCode/tree/master/0344-reverse-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Betsinat/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Betsinat/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0961-long-pressed-name](https://github.com/Betsinat/LeetCode/tree/master/0961-long-pressed-name) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Betsinat/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Betsinat/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Betsinat/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Betsinat/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Betsinat/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Betsinat/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Betsinat/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Betsinat/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Simulation
 |  |
 | ------- |
