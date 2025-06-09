@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Betsinat/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0838-design-linked-list](https://github.com/Betsinat/LeetCode/tree/master/0838-design-linked-list) |
 ## Dynamic Programming
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Betsinat/LeetCode/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Betsinat/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Betsinat/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/Betsinat/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Betsinat/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0183-customers-who-never-order](https://github.com/Betsinat/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/Betsinat/LeetCode/tree/master/0577-employee-bonus) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Betsinat/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
