@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Betsinat/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0753-open-the-lock](https://github.com/Betsinat/LeetCode/tree/master/0753-open-the-lock) |
 | [0792-binary-search](https://github.com/Betsinat/LeetCode/tree/master/0792-binary-search) |
+| [0833-bus-routes](https://github.com/Betsinat/LeetCode/tree/master/0833-bus-routes) |
 | [0860-design-circular-queue](https://github.com/Betsinat/LeetCode/tree/master/0860-design-circular-queue) |
 | [0890-lemonade-change](https://github.com/Betsinat/LeetCode/tree/master/0890-lemonade-change) |
 | [0945-snakes-and-ladders](https://github.com/Betsinat/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Betsinat/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Betsinat/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0753-open-the-lock](https://github.com/Betsinat/LeetCode/tree/master/0753-open-the-lock) |
+| [0833-bus-routes](https://github.com/Betsinat/LeetCode/tree/master/0833-bus-routes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Betsinat/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Sorting
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/Betsinat/LeetCode/tree/master/0542-01-matrix) |
 | [0753-open-the-lock](https://github.com/Betsinat/LeetCode/tree/master/0753-open-the-lock) |
+| [0833-bus-routes](https://github.com/Betsinat/LeetCode/tree/master/0833-bus-routes) |
 | [0871-keys-and-rooms](https://github.com/Betsinat/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Betsinat/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/Betsinat/LeetCode/tree/master/0945-snakes-and-ladders) |
