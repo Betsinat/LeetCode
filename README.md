@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/Betsinat/LeetCode/tree/master/0753-open-the-lock) |
 | [0833-bus-routes](https://github.com/Betsinat/LeetCode/tree/master/0833-bus-routes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Betsinat/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Betsinat/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Sorting
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Betsinat/LeetCode/tree/master/0690-employee-importance) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Betsinat/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Betsinat/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Betsinat/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Betsinat/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Betsinat/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Betsinat/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Betsinat/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Betsinat/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Betsinat/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Betsinat/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 ## Binary Tree
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Betsinat/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Betsinat/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Betsinat/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Betsinat/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Betsinat/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 ## Heap (Priority Queue)
 |  |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Betsinat/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1035-cousins-in-binary-tree](https://github.com/Betsinat/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1117-as-far-from-land-as-possible](https://github.com/Betsinat/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Betsinat/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Betsinat/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1876-map-of-highest-peak](https://github.com/Betsinat/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Betsinat/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
