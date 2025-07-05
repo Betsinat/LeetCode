@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Betsinat/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Betsinat/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2383-add-two-integers](https://github.com/Betsinat/LeetCode/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/Betsinat/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Betsinat/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/Betsinat/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Betsinat/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Betsinat/LeetCode/tree/master/0258-add-digits) |
+| [2491-smallest-even-multiple](https://github.com/Betsinat/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Stack
 |  |
 | ------- |
