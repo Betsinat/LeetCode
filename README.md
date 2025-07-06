@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Betsinat/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Betsinat/LeetCode/tree/master/0695-max-area-of-island) |
 | [0753-open-the-lock](https://github.com/Betsinat/LeetCode/tree/master/0753-open-the-lock) |
+| [0777-toeplitz-matrix](https://github.com/Betsinat/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Betsinat/LeetCode/tree/master/0792-binary-search) |
 | [0833-bus-routes](https://github.com/Betsinat/LeetCode/tree/master/0833-bus-routes) |
 | [0860-design-circular-queue](https://github.com/Betsinat/LeetCode/tree/master/0860-design-circular-queue) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Betsinat/LeetCode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Betsinat/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Betsinat/LeetCode/tree/master/0695-max-area-of-island) |
+| [0777-toeplitz-matrix](https://github.com/Betsinat/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0945-snakes-and-ladders](https://github.com/Betsinat/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Betsinat/LeetCode/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/Betsinat/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
