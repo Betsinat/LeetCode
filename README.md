@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Betsinat/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1542-consecutive-characters](https://github.com/Betsinat/LeetCode/tree/master/1542-consecutive-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Betsinat/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1797-goal-parser-interpretation](https://github.com/Betsinat/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Betsinat/LeetCode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Betsinat/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Array
