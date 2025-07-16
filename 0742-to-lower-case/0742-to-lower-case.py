@@ -3,9 +3,10 @@ class Solution(object):
         res=""
         for i in range(len(s)):
             if s[i].isupper():
-                res += s[i].lower()
+                res += chr(ord(s[i]) + 32)
             else:
                 res += s[i]
         return res
-
+        
+  
      
