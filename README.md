@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/Betsinat/LeetCode/tree/master/0753-open-the-lock) |
 | [0961-long-pressed-name](https://github.com/Betsinat/LeetCode/tree/master/0961-long-pressed-name) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Betsinat/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Betsinat/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1542-consecutive-characters](https://github.com/Betsinat/LeetCode/tree/master/1542-consecutive-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Betsinat/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Betsinat/LeetCode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
