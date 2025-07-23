@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Betsinat/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/Betsinat/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Betsinat/LeetCode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
+| [2502-sort-the-people](https://github.com/Betsinat/LeetCode/tree/master/2502-sort-the-people) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Betsinat/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Array
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Betsinat/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Betsinat/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Betsinat/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2502-sort-the-people](https://github.com/Betsinat/LeetCode/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/Betsinat/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Betsinat/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Betsinat/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-bus-routes](https://github.com/Betsinat/LeetCode/tree/master/0833-bus-routes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Betsinat/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Betsinat/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2502-sort-the-people](https://github.com/Betsinat/LeetCode/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Betsinat/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Betsinat/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/Betsinat/LeetCode/tree/master/0948-sort-an-array) |
+| [2502-sort-the-people](https://github.com/Betsinat/LeetCode/tree/master/2502-sort-the-people) |
 ## Greedy
 |  |
 | ------- |
