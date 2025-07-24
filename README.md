@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Betsinat/LeetCode/tree/master/0742-to-lower-case) |
 | [0753-open-the-lock](https://github.com/Betsinat/LeetCode/tree/master/0753-open-the-lock) |
 | [0961-long-pressed-name](https://github.com/Betsinat/LeetCode/tree/master/0961-long-pressed-name) |
+| [1044-find-common-characters](https://github.com/Betsinat/LeetCode/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Betsinat/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Betsinat/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1542-consecutive-characters](https://github.com/Betsinat/LeetCode/tree/master/1542-consecutive-characters) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Betsinat/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Betsinat/LeetCode/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/Betsinat/LeetCode/tree/master/1036-rotting-oranges) |
+| [1044-find-common-characters](https://github.com/Betsinat/LeetCode/tree/master/1044-find-common-characters) |
 | [1117-as-far-from-land-as-possible](https://github.com/Betsinat/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1137-height-checker](https://github.com/Betsinat/LeetCode/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/Betsinat/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/Betsinat/LeetCode/tree/master/0753-open-the-lock) |
 | [0833-bus-routes](https://github.com/Betsinat/LeetCode/tree/master/0833-bus-routes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Betsinat/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1044-find-common-characters](https://github.com/Betsinat/LeetCode/tree/master/1044-find-common-characters) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Betsinat/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Betsinat/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Betsinat/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
