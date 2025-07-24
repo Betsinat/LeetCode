@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Betsinat/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1876-map-of-highest-peak](https://github.com/Betsinat/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Betsinat/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2048-build-array-from-permutation](https://github.com/Betsinat/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Betsinat/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Betsinat/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/Betsinat/LeetCode/tree/master/2502-sort-the-people) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Betsinat/LeetCode/tree/master/0258-add-digits) |
+| [2048-build-array-from-permutation](https://github.com/Betsinat/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2551-apply-operations-to-an-array](https://github.com/Betsinat/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Betsinat/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Number Theory
