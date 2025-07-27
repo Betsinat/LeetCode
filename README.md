@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Betsinat/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Betsinat/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1677-matrix-diagonal-sum](https://github.com/Betsinat/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Betsinat/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Betsinat/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Betsinat/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1876-map-of-highest-peak](https://github.com/Betsinat/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Betsinat/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Betsinat/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Betsinat/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Betsinat/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Betsinat/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2383-add-two-integers](https://github.com/Betsinat/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Betsinat/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Betsinat/LeetCode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/Betsinat/LeetCode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Betsinat/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Betsinat/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Betsinat/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Betsinat/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/Betsinat/LeetCode/tree/master/2502-sort-the-people) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Betsinat/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Betsinat/LeetCode/tree/master/0890-lemonade-change) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Betsinat/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -420,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Betsinat/LeetCode/tree/master/0099-recover-binary-search-tree) |
+## Game Theory
+|  |
+| ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Betsinat/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
