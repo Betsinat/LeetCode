@@ -1,8 +1,14 @@
 class Solution(object):
     def defangIPaddr(self, address):
-    
-      a = address.replace("." , "[.]")
-      return a
-    
+        res = ""
+        for i in range(len(address)):
+            if address[i] == ".":
+                res += "[.]"
+            else:
+                res+= address[i]
+        return res
 
+
+    
+      
         
