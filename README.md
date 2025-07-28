@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Betsinat/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Betsinat/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Betsinat/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Betsinat/LeetCode/tree/master/0383-ransom-note) |
 | [0399-evaluate-division](https://github.com/Betsinat/LeetCode/tree/master/0399-evaluate-division) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Betsinat/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Betsinat/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Betsinat/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Betsinat/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Betsinat/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Betsinat/LeetCode/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Betsinat/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Betsinat/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0690-employee-importance](https://github.com/Betsinat/LeetCode/tree/master/0690-employee-importance) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Betsinat/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Betsinat/LeetCode/tree/master/0383-ransom-note) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Betsinat/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Betsinat/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
