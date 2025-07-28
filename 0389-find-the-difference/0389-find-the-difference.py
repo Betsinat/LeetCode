@@ -6,12 +6,3 @@ class Solution(object):
             if a[i] != b[i]:
                 return b[i]
         return b[-1]
-
-                
-
-
-       
-      
-
-     
-        
