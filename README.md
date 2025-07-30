@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Betsinat/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Betsinat/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Betsinat/LeetCode/tree/master/0127-word-ladder) |
+| [0179-largest-number](https://github.com/Betsinat/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Betsinat/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Betsinat/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Betsinat/LeetCode/tree/master/0344-reverse-string) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Betsinat/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Betsinat/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Betsinat/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Betsinat/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Betsinat/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Betsinat/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Betsinat/LeetCode/tree/master/0268-missing-number) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Betsinat/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Betsinat/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Betsinat/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Betsinat/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Betsinat/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Betsinat/LeetCode/tree/master/0268-missing-number) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Betsinat/LeetCode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Betsinat/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Betsinat/LeetCode/tree/master/0890-lemonade-change) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Betsinat/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
