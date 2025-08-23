@@ -3,7 +3,7 @@ class Solution(object):
         """
         :type prices: List[int]
         :rtype: int
-        """    
+        """
         min_price = prices[0]
         max_profit = 0
         for i in range(1 , len(prices)):
@@ -14,3 +14,5 @@ class Solution(object):
                 if diff > max_profit:
                     max_profit = diff
         return max_profit
+        
+        
