@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Betsinat/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0690-employee-importance](https://github.com/Betsinat/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Betsinat/LeetCode/tree/master/0695-max-area-of-island) |
+| [0724-find-pivot-index](https://github.com/Betsinat/LeetCode/tree/master/0724-find-pivot-index) |
 | [0753-open-the-lock](https://github.com/Betsinat/LeetCode/tree/master/0753-open-the-lock) |
 | [0777-toeplitz-matrix](https://github.com/Betsinat/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Betsinat/LeetCode/tree/master/0792-binary-search) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Betsinat/LeetCode/tree/master/0724-find-pivot-index) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Betsinat/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/Betsinat/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Linked List
