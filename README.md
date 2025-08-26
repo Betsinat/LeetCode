@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Betsinat/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Betsinat/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/Betsinat/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2102-find-the-middle-index-in-array](https://github.com/Betsinat/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Betsinat/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Betsinat/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Betsinat/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Betsinat/LeetCode/tree/master/0724-find-pivot-index) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Betsinat/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/Betsinat/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/Betsinat/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 ## Linked List
 |  |
 | ------- |
