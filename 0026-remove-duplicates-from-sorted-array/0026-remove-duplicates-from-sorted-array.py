@@ -4,8 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        no = Counter(nums)
-        unique_keys = sorted(no.keys())
+        unique_keys = sorted(set(nums))
         for i in range(len(nums)):
            if i < len(unique_keys):
              nums[i] =  unique_keys[i]
