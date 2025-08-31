@@ -8,15 +8,9 @@ class Solution(object):
         dig = ""
         for i in range(len(digits)):
             dig += str(digits[i])
-
-
-        b = int(dig)
-        b = b + 1
+        b = int(dig) + 1
         c = str(b)
         for i in range(len(c)):
             res.append(int(c[i]))
         return res
 
-            
-
-        
