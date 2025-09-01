@@ -16,8 +16,6 @@ class Solution(object):
                 idx2 -= 1
         return [idx1 + 1 , idx2 + 1]
         
-       
-            
-
-            
         
+
+
