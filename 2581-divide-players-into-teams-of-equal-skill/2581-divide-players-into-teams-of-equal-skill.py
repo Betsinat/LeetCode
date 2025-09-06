@@ -15,4 +15,14 @@ class Solution(object):
             left += 1
             right -= 1
         return total
+            
+            
+
+            
+
+           
+
+
+
+
         
