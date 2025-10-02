@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Betsinat/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Betsinat/LeetCode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Betsinat/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Betsinat/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Betsinat/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0690-employee-importance](https://github.com/Betsinat/LeetCode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Betsinat/LeetCode/tree/master/0695-max-area-of-island) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Betsinat/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Betsinat/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Betsinat/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Simulation
 |  |
 | ------- |
