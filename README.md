@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Betsinat/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0945-snakes-and-ladders](https://github.com/Betsinat/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Betsinat/LeetCode/tree/master/0948-sort-an-array) |
+| [0966-binary-subarrays-with-sum](https://github.com/Betsinat/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/Betsinat/LeetCode/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/Betsinat/LeetCode/tree/master/1044-find-common-characters) |
 | [1117-as-far-from-land-as-possible](https://github.com/Betsinat/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Betsinat/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Betsinat/LeetCode/tree/master/0724-find-pivot-index) |
+| [0966-binary-subarrays-with-sum](https://github.com/Betsinat/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Betsinat/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/Betsinat/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Betsinat/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/Betsinat/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0833-bus-routes](https://github.com/Betsinat/LeetCode/tree/master/0833-bus-routes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Betsinat/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0966-binary-subarrays-with-sum](https://github.com/Betsinat/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1044-find-common-characters](https://github.com/Betsinat/LeetCode/tree/master/1044-find-common-characters) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Betsinat/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Betsinat/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Betsinat/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Betsinat/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Betsinat/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0966-binary-subarrays-with-sum](https://github.com/Betsinat/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Betsinat/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Betsinat/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Simulation
