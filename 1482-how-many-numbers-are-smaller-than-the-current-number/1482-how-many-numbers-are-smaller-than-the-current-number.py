@@ -1,14 +1,13 @@
-class Solution(object):
-    def smallerNumbersThanCurrent(self, nums):
-        new_sorted = sorted(nums)
-        zipped = zip(new_sorted, range(len(new_sorted)))
-        index_map = {}
-        for num, i in zipped:
-            if num not in index_map:
-                index_map[num] = i
-        return [index_map[num] for num in nums]
-
+class Solution:
+    def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
+     count = 0
+     n = []
+     j = 1
+     for i in range(len(nums)):
+        count = 0
+        for j in range(len(nums)):
+            if nums[j] < nums[i]:
+                count +=1
+        n.append(count)
+     return n
      
-
-
-      
