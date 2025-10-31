@@ -1,11 +1,10 @@
-class Solution(object):
-    def maxCoins(self, piles):
-        piles.sort(reverse=True)
-        total = 0
-        n = len(piles) // 3
-        idx = 1 
-        for _ in range(n):
-            total += piles[idx]
-            idx += 2  
-        return total
+class Solution:
+    def maxCoins(self, piles: List[int]) -> int:
+        piles.sort()
+        a = int(len(piles) / 3)
+        sum = 0
+        for i in range(a , len(piles) , 2):
+           sum += piles[i]
+        return sum
 
+        
