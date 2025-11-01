@@ -12,12 +12,3 @@ class Solution:
         merged.append(previous)
         return merged
 
-
-
-
-
-
-
-        
-
-        
