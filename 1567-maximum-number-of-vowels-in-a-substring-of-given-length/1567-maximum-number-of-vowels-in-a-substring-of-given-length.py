@@ -1,16 +1,20 @@
-class Solution(object):
-    def maxVowels(self, s, k):
-        """
-        :type s: str
-        :type k: int
-        :rtype: int
-        """
-        left , max_count , count = 0 , 0 , 0
-        vowel = ["a" , "e" , "i" , "o" , "u"]
-        for r in range(len(s)):
-            count +=1 if s[r] in vowel else 0
-            if r - left + 1 > k:
-                count -= 1 if s[left] in vowel else 0
-                left += 1
-            max_count = max(count ,  max_count)
-        return max_count
+class Solution:
+    def maxVowels(self, s: str, k: int) -> int:
+        #hold on to the first k items of the array
+        vowels = ['a', 'e', 'i', 'o', 'u']
+        count = 0
+        for i in range(k): 
+            if s[i] in vowels: 
+                count +=1 
+        
+        tracker = 0
+        currCount = count 
+        for i in range(k, len(s)):  
+            if s[tracker] in vowels: 
+                currCount -= 1
+            if s[i] in vowels: 
+                currCount += 1
+            tracker += 1
+            count = max(count , currCount)
+            
+        return count 
