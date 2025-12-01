@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Betsinat/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/Betsinat/LeetCode/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/Betsinat/LeetCode/tree/master/1044-find-common-characters) |
+| [1051-height-checker](https://github.com/Betsinat/LeetCode/tree/master/1051-height-checker) |
 | [1117-as-far-from-land-as-possible](https://github.com/Betsinat/LeetCode/tree/master/1117-as-far-from-land-as-possible) |
 | [1137-height-checker](https://github.com/Betsinat/LeetCode/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/Betsinat/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Betsinat/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Betsinat/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Betsinat/LeetCode/tree/master/0948-sort-an-array) |
+| [1051-height-checker](https://github.com/Betsinat/LeetCode/tree/master/1051-height-checker) |
 | [1137-height-checker](https://github.com/Betsinat/LeetCode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Betsinat/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Betsinat/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Betsinat/LeetCode/tree/master/0948-sort-an-array) |
+| [1051-height-checker](https://github.com/Betsinat/LeetCode/tree/master/1051-height-checker) |
 | [1137-height-checker](https://github.com/Betsinat/LeetCode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Betsinat/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String Matching
