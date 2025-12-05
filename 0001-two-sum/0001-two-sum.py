@@ -1,26 +1,12 @@
-from collections import defaultdict
-
-class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        twoSum_map = defaultdict(list)
-        result = []
+class Solution(object):
+    def twoSum(self, nums, target):
+        arr = []
         for i in range(len(nums)):
-                twoSum_map[nums[i]].append(i)
-        for num in nums:
-            complement = target - num
-            if complement not in twoSum_map:
-                continue
-            if num == complement:
-                if len(twoSum_map[num]) >= 2:
-                    idx1, idx2 = twoSum_map[num][0], twoSum_map[num][1]
-                    return [idx1, idx2]
-            else:
-                idx1, idx2 = twoSum_map[num][0], twoSum_map[complement][0]
-                return [idx1, idx2]
+            for j in range(i+1 ,len(nums)):
+                if nums[i] + nums[j] ==target:
+                    arr.append(i)
+                    arr.append(j)
+        return arr
 
-           
-       
-
-
-
-        
+    
+                      
