@@ -5,5 +5,22 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
-        return list(set(nums1) & set(nums2))
+        arr = []
+        for num1 in nums1:
+            for num2 in nums2:
+                if num1 == num2:
+                    arr.append(num1)
+                    break
+        s = set(arr)
+        return list(s)
+
+
+
+
+        
+        
+ 
+        
+
+
         
