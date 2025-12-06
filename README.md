@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Betsinat/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Betsinat/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0961-long-pressed-name](https://github.com/Betsinat/LeetCode/tree/master/0961-long-pressed-name) |
+| [2465-number-of-distinct-averages](https://github.com/Betsinat/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2551-apply-operations-to-an-array](https://github.com/Betsinat/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Betsinat/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/Betsinat/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Betsinat/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Betsinat/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2465-number-of-distinct-averages](https://github.com/Betsinat/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2502-sort-the-people](https://github.com/Betsinat/LeetCode/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/Betsinat/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Betsinat/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Betsinat/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Betsinat/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Betsinat/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2465-number-of-distinct-averages](https://github.com/Betsinat/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2502-sort-the-people](https://github.com/Betsinat/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Betsinat/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Betsinat/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Betsinat/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Betsinat/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Betsinat/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2465-number-of-distinct-averages](https://github.com/Betsinat/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2502-sort-the-people](https://github.com/Betsinat/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Betsinat/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
