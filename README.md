@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Betsinat/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Betsinat/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0961-long-pressed-name](https://github.com/Betsinat/LeetCode/tree/master/0961-long-pressed-name) |
+| [2460-apply-operations-to-an-array](https://github.com/Betsinat/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Betsinat/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2551-apply-operations-to-an-array](https://github.com/Betsinat/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Betsinat/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/Betsinat/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Betsinat/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Betsinat/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2460-apply-operations-to-an-array](https://github.com/Betsinat/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Betsinat/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2502-sort-the-people](https://github.com/Betsinat/LeetCode/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/Betsinat/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Betsinat/LeetCode/tree/master/0258-add-digits) |
 | [2048-build-array-from-permutation](https://github.com/Betsinat/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2460-apply-operations-to-an-array](https://github.com/Betsinat/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Betsinat/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Betsinat/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Number Theory
