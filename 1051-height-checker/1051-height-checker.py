@@ -1,10 +1,12 @@
-class Solution:
-    def heightChecker(self, heights: List[int]) -> int:
+class Solution(object):
+    def heightChecker(self, heights):
         expected = sorted(heights)
-        sum = 0
+        count = 0
         for i in range(len(heights)):
             if expected[i] != heights[i]:
-                sum += 1
-        return sum
-            
-        
+                count +=1
+        return count
+      
+    
+    
+         
