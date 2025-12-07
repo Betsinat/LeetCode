@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Betsinat/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/Betsinat/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0961-long-pressed-name](https://github.com/Betsinat/LeetCode/tree/master/0961-long-pressed-name) |
+| [1002-find-common-characters](https://github.com/Betsinat/LeetCode/tree/master/1002-find-common-characters) |
 | [1044-find-common-characters](https://github.com/Betsinat/LeetCode/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Betsinat/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/Betsinat/LeetCode/tree/master/1205-defanging-an-ip-address) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Betsinat/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Betsinat/LeetCode/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Betsinat/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1002-find-common-characters](https://github.com/Betsinat/LeetCode/tree/master/1002-find-common-characters) |
 | [1036-rotting-oranges](https://github.com/Betsinat/LeetCode/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/Betsinat/LeetCode/tree/master/1044-find-common-characters) |
 | [1051-height-checker](https://github.com/Betsinat/LeetCode/tree/master/1051-height-checker) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-bus-routes](https://github.com/Betsinat/LeetCode/tree/master/0833-bus-routes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Betsinat/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0966-binary-subarrays-with-sum](https://github.com/Betsinat/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1002-find-common-characters](https://github.com/Betsinat/LeetCode/tree/master/1002-find-common-characters) |
 | [1044-find-common-characters](https://github.com/Betsinat/LeetCode/tree/master/1044-find-common-characters) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Betsinat/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Betsinat/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
