@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Betsinat/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Betsinat/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Betsinat/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Betsinat/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Betsinat/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Betsinat/LeetCode/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/Betsinat/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Betsinat/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Betsinat/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Betsinat/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Betsinat/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Betsinat/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Betsinat/LeetCode/tree/master/0389-find-the-difference) |
 | [0399-evaluate-division](https://github.com/Betsinat/LeetCode/tree/master/0399-evaluate-division) |
