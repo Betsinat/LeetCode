@@ -5,13 +5,26 @@ class Solution(object):
         :type val: int
         :rtype: int
         """
-        if not nums:
-            return 0
-        j = 0
-        for i in range(len(nums)):
-            if nums[i] != val :
-                nums[j] = nums[i]
-                j += 1
-        return j
+        seeker , holder = 0 , 0
+        count = 0
+        while seeker < len(nums):
+            if nums[seeker] != val:
+                nums[seeker] , nums[holder] = nums[holder] , nums[seeker]
+                holder += 1
+                count +=1
+            seeker += 1
+        return count
+        
+
+        
+
+    
+
+
+                
+        
+
+
+      
 
         
