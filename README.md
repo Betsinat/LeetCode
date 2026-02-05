@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Betsinat/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Betsinat/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2383-add-two-integers](https://github.com/Betsinat/LeetCode/tree/master/2383-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/Betsinat/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Betsinat/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2491-smallest-even-multiple](https://github.com/Betsinat/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Betsinat/LeetCode/tree/master/2556-convert-the-temperature) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Betsinat/LeetCode/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/Betsinat/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2491-smallest-even-multiple](https://github.com/Betsinat/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Stack
 |  |
