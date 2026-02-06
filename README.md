@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Betsinat/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Betsinat/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1876-map-of-highest-peak](https://github.com/Betsinat/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Betsinat/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Betsinat/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/Betsinat/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2102-find-the-middle-index-in-array](https://github.com/Betsinat/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Betsinat/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Betsinat/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/Betsinat/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Betsinat/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2102-find-the-middle-index-in-array](https://github.com/Betsinat/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 ## Linked List
 |  |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Betsinat/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Betsinat/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Betsinat/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Betsinat/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Betsinat/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2465-number-of-distinct-averages](https://github.com/Betsinat/LeetCode/tree/master/2465-number-of-distinct-averages) |
 | [2502-sort-the-people](https://github.com/Betsinat/LeetCode/tree/master/2502-sort-the-people) |
